@@ -1,0 +1,213 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #e0f7fa, #b2ebf2); /* Light blue gradient */
+    color: #003366; /* Dark blue text for contrast */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #007BFF; /* Power blue */
+}
+
+main {
+    max-width: 800px;
+    width: 100%;
+    padding: 10px;
+    background-color: #ffffff; /* White background for main content */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+    flex-wrap: wrap;
+}
+
+.daily-reminder-box {
+    background-color: #cce5ff; /* Soft blue box */
+    border-radius: 15px;
+    padding: 20px;
+    flex: 1 1 300px;
+    margin: 10px;
+}
+
+.daily-reminder {
+    text-align: center;
+}
+
+.daily-reminder blockquote {
+    font-size: 1.5em;
+    font-style: italic;
+    margin: 10px 0;
+    color: #007BFF; /* Power blue */
+}
+
+.image-gallery-container {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.image-gallery-box {
+    background-color: #ffffff; /* White background for images */
+    border-radius: 15px;
+    padding: 10px;
+    flex: 1 1 100%; /* Make the box full-width */
+    margin: 0;
+}
+
+.image-gallery {
+    display: flex;
+    justify-content: center; /* Center images */
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+}
+
+.image-gallery img {
+    max-width: 20%; /* Set width to allow 5 images */
+    max-height: 125px; /* Maintain height */
+    margin: 12px; /* Adjust margin for spacing */
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: .5px; /* Adjust margin for better spacing */
+    flex-wrap: wrap;
+}
+
+.flexbox-container > div {
+    background-color: #f0faff; /* Light blue background */
+    border-radius: 15px;
+    padding: 20px;
+    flex: 1;
+    margin: 10px;
+    min-width: 250px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+/* Style for the song player */
+.song-player-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start */
+    justify-content: center; /* Center the controls vertically */
+}
+
+audio {
+    width: 100%; /* Full width for the audio player */
+    border: none; /* Remove default border */
+    outline: none; /* Remove outline */
+    border-radius: 10px; /* Rounded corners */
+    background: #e0f7fa; /* Light blue background */
+    padding: 10px; /* Add padding for aesthetics */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: #f0faff; /* Matching background for controls */
+    border-radius: 10px; /* Rounded corners for controls */
+}
+
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-volume-slider {
+    background: #007BFF; /* Power blue for buttons */
+    border-radius: 5px; /* Rounded buttons */
+    color: white; /* White text */
+}
+
+.goal-box ul {
+    list-style-type: none;
+}
+
+.goal-box li {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.goal-box i {
+    width: 20px;
+    height: 20px;
+    padding-right: 20px;
+    margin-right: 30px;
+    color: #007BFF; /* Power blue */
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #007BFF; /* Power blue */
+}
+
+p {
+    color: #003366; /* Dark blue text */
+}
+
+.quote-box {
+    background-color: #f0faff; /* Light blue background */
+    border-radius: 15px; /* Rounded corners */
+    padding: 20px; /* Padding for aesthetics */
+    flex: 1; /* Allow flex growth */
+    margin: 10px; /* Space around the box */
+    max-width: 250px; /* Minimum width */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+.social-media-container {
+    background-color: #ffffff; /* White background for contrast */
+    border-radius: 15px; /* Rounded corners */
+    padding: 20px; /* Padding for aesthetics */
+    margin: 10px; /* Space around the box */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    flex: 1; /* Allow flex growth */
+    min-width: 250px; /* Minimum width */
+}
+
+.social-media-box {
+    display: flex;
+    justify-content: center; /* Center items */
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    margin-top: 10px;
+}
+
+.social-media-box a {
+    text-decoration: none; /* Remove underline */
+    color: #007BFF; /* Power blue */
+    margin: 10px; /* Space between icons */
+    font-size: 1.2em; /* Increase icon size */
+    display: flex; /* Flexbox for icon and text */
+    align-items: center; /* Center vertically */
+}
+
+.social-media-box a i {
+    margin-right: 8px; /* Space between icon and text */
+}
+
+.song-player-box {
+    flex: 1 1 100%; /* Make the song player box full width */
+    background-color: #f0faff; /* Light blue background for consistency */
+    border-radius: 15px; /* Rounded corners */
+    padding: 20px; /* Padding for aesthetics */
+    margin: 10px; /* Space around the box */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+
+
+
