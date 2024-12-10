@@ -4,7 +4,7 @@
 **Year and Section:** CS-3101
 
 ## Overview  
-Welcome to the Laboratory Activity Repository! This repository contains a collection of laboratory exercises designed to enhance your practical skills in web development using **HTML**, **CSS**, and **JavaScript**. Each activity introduces key concepts, frameworks, and tools, encouraging hands-on learning.  
+This repository contains a collection of laboratory exercises designed to enhance your practical skills in web development using **HTML**, **CSS**, and **JavaScript**. Each activity introduces key concepts, frameworks, and tools, encouraging hands-on learning.  
 
 ## Purpose  
 The purpose of this repository is to:  
