@@ -28,7 +28,7 @@ The repository is organized as follows:
 
 ## Laboratory Activity 1 - Tables
 
-![screenshot](C:\Users\Jeff Lawrence\Downloads\readme\html-tables-output.jpg)
+![screenshot](Downloads\readme\html-tables-output.jpg)
 
 
 
