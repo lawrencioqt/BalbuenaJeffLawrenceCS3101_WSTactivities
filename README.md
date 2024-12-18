@@ -54,7 +54,7 @@ The repository is organized as follows:
 ![screenshot](Laboratory%20Activities/Laboratory%20Activity%202%20-%2010-04-2024/visionboard-output.png).
 
 
-## 🔢 Word Counter: Laboratory Activity 3
+## 🔢 Word and Sentence Counter: Laboratory Activity 3
 
 **Description:**  
 A fun and interactive word and sentence counter inspired by BMO from *Adventure Time*. This tool combines functionality with BMO’s playful console design for a delightful user experience.
@@ -67,8 +67,12 @@ A fun and interactive word and sentence counter inspired by BMO from *Adventure 
 
 ![screenshot](Laboratory%20Activities/Laboratory%20Activity%203%20-%2011-19-2024/word-sentence-ctr-output.png)
 
+## ℹ️ Personal Page: Laboratory Activity 4
 
-![screenshot](Laboratory%20Activities/Laboratory%20Activity%203%20-%2011-19-2024/word-sentence-ctr-output.png)
+**Description:**  
+Welcome to my personal page! Here, you can explore who I am, what I do, and what drives me.
+
+![screenshot](Laboratory%20Activities/Laboratory%20Activity%204%20-%2011-29-2024/personal-page-output.jpg)
 
 
 
