@@ -54,6 +54,21 @@ The repository is organized as follows:
 ![screenshot](Laboratory%20Activities/Laboratory%20Activity%202%20-%2010-04-2024/visionboard-output.png).
 
 
+## 🔢 Word Counter: Laboratory Activity 3
+
+**Description:**  
+A fun and interactive word and sentence counter inspired by BMO from *Adventure Time*. This tool combines functionality with BMO’s playful console design for a delightful user experience.
+
+**Features:**  
+- Real-Time Counting: Instantly counts words and sentences as you type.  
+- BMO-Inspired UI: Styled to resemble BMO’s cheerful and iconic design.  
+- Responsive: Works seamlessly on all devices.  
+- Lightweight: Fast and smooth performance.
+
+![screenshot](Laboratory%20Activities/Laboratory%20Activity%203%20-%2011-19-2024/word-sentence-ctr-output.png)
+
+
+![screenshot](Laboratory%20Activities/Laboratory%20Activity%203%20-%2011-19-2024/word-sentence-ctr-output.png)
 
 
 
