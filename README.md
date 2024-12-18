@@ -26,7 +26,7 @@ The repository is organized as follows:
 * **CSS**: For styling and layout design.  
 * **JavaScript**: For interactivity and dynamic behavior.
 
-## 📅 Class Schedule: Laboratory Activity 1 - Tables
+## 📅 Class Schedule: Laboratory Activity 1 
 
 **Description:**
 - A neatly organized **Class Schedule** for the semester.
@@ -39,6 +39,19 @@ The repository is organized as follows:
 
 ![screenshot](Laboratory%20Activities/Laboratory%20Acitivity%201%20-%2006-09-2024/html-tables-output.png)
 
+
+## 🎯 Vision Board: Laboratory Activity 2
+
+**Description:**
+- A personal **Vision Board** to display goals, quotes, and inspiration.
+- Clean and modern design with organized sections.
+
+**Features:**
+- Goals section with a to-do list.
+- Inspirational quotes.
+- Social media links for easy connection.
+
+![screenshot](Laboratory%20Activities/Laboratory%20Activity%202%20-%2010-04-2024/visionboard-output.png).
 
 
 
