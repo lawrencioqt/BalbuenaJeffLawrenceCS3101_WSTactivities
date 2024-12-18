@@ -26,9 +26,21 @@ The repository is organized as follows:
 * **CSS**: For styling and layout design.  
 * **JavaScript**: For interactivity and dynamic behavior.
 
-## Laboratory Activity 1 - Tables
+## 📅 Class Schedule: Laboratory Activity 1 - Tables
+
+**Description:**
+- A neatly organized **Class Schedule** for the semester.
+- Built using HTML tables.
+
+**Features:**
+- Responsive and clean table layout.
+- Highlights specific days and subjects.
+- Course descriptions included.
 
 ![screenshot](Laboratory%20Activities/Laboratory%20Acitivity%201%20-%2006-09-2024/html-tables-output.png)
+
+
+
 
 
 
